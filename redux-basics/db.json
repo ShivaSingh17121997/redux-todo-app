@@ -1,0 +1,85 @@
+{
+  "todo": [
+    {
+      "todo": "ram ram",
+      "id": 2,
+      "status": false
+    },
+    {
+      "todo": "shyam ram",
+      "id": 3,
+      "status": false
+    },
+    {
+      "todo": "ram ram",
+      "id": 4,
+      "status": false
+    },
+    {
+      "todo": "krishna ram ram ram ram ram",
+      "id": 5
+    },
+    {
+      "todo": "ram",
+      "competed": true,
+      "id": 6,
+      "status": false
+    },
+    {
+      "todo": "jai ram",
+      "competed": true,
+      "category": "public",
+      "id": 8
+    },
+    {
+      "todo": "radhe radhe",
+      "competed": true,
+      "category": "public",
+      "id": 9,
+      "status": false
+    },
+    {
+      "todo": "babalu",
+      "competed": false,
+      "category": "personal",
+      "id": 12
+    },
+    {
+      "todo": "narendra modi has won the election 3rd time in the row",
+      "completed": false,
+      "category": "personal",
+      "id": 13
+    },
+    {
+      "todo": "let s complete the todo app today",
+      "completed": false,
+      "category": "public",
+      "id": 14,
+      "status": false
+    },
+    {
+      "todo": "hello this is new day today is tuesday",
+      "completed": true,
+      "category": "personal",
+      "id": 15
+    },
+    {
+      "todo": "hwan kund me radhe radhe",
+      "completed": true,
+      "category": "public",
+      "id": 16
+    },
+    {
+      "todo": "fasa",
+      "completed": true,
+      "category": "home",
+      "id": 17
+    },
+    {
+      "todo": "hello",
+      "completed": false,
+      "category": "public",
+      "id": 18
+    }
+  ]
+}
